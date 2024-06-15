@@ -1,0 +1,19 @@
+# apps
+apps/node_modules
+
+apps/.next
+
+apps/package-lock.json
+
+apps/.env.development
+
+apps/.env.production
+
+# server
+server/node_modules
+
+server/.env
+
+server/package-lock.json
+
+server/storages/*
